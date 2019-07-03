@@ -1,0 +1,22 @@
+{
+  "name": "xhwAAAAF",
+  "version": "0.1.0",
+  "summary": "A short description of xhwAAAAF.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hwxue/xhwAAAAF",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hwxue": "2609386917@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/hwxue/xhwAAAAF.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "xhwAAAAF/Classes/**/*"
+}
